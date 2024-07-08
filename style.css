@@ -1,0 +1,28 @@
+body{
+    background-color: burlywood;
+}
+header{
+    text-align: center;
+    
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 50px; 
+            z-index: 6;
+			
+			background: #BCCE98;
+}
+.container1{
+    height: 50px;
+    z-index: 15;
+    
+
+}
+.container2{
+    position:relative;
+    }
+
+
+h2{
+    color: rgba(244, 2, 39, 0.772);
+}
